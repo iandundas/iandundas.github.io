@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "N8N37QWHHP.co.solidred.DeepLinkTests",
+        "paths": [
+          "/import/testlocatie-token/"
+        ]
+    ]
+  }
+}
