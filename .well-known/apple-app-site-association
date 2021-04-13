@@ -3,12 +3,9 @@
     "apps": [],
     "details": [
       {
-        "appID": "N8N37QWHHP.co.solidred.DeepLinkTests",
+        "appID": "C2H38GV99H.nl.rijksoverheid.ctr",
         "paths": [
-          "/import/wildcard-at-end/*",
-          "/import/wildcard-in-middle/*/end",
-          "/app/redeem/testA",
-          "/app/redeem/testB#*"
+          "/app/*"
         ]
       }
     ]
