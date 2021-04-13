@@ -5,7 +5,10 @@
       {
         "appID": "N8N37QWHHP.co.solidred.DeepLinkTests",
         "paths": [
-          "/import/testlocatie-token/"
+          "/import/wildcard-at-end/*",
+          "/import/wildcard-in-middle/*/end",
+          "/app/redeem/testA",
+          "/app/redeem/testB#*"
         ]
       }
     ]
