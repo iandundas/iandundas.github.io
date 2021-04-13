@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "C2H38GV99H.nl.rijksoverheid.ctr",
+        "appID": "C2H38GV99H.nl.rijksoverheid.ctr.debug.ian",
         "paths": [
           "/app/*"
         ]
